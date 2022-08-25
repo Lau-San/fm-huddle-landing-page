@@ -237,10 +237,6 @@ main {
 .attribution:hover {
   transform: translate(0);
 }
-.attribution:active {
-  border: 2px solid red;
-  transform: translate(0);
-}
 @media screen and (hover: none) {
   .attribution {
     font-size: 0.6rem;

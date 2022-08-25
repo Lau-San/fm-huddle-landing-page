@@ -274,11 +274,6 @@ main {
 		transform: translate(0);
 	}
 
-	&:active {
-		border: 2px solid red;
-		transform: translate(0);
-	}
-
 	@media screen and (hover: none) {
 		font-size: .6rem;
 		letter-spacing: .15em;
