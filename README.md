@@ -14,9 +14,7 @@ This is a solution to the [Huddle landing page with single introductory section 
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
   - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -29,8 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-<!-- TODO: Solution screenshot -->
-![](./screenshot.jpg)
+![](./screenshots/screenshot-desktop.png)
 
 ### Links
 
@@ -43,32 +40,19 @@ Users should be able to:
 
 ### Built with
 
-<!-- TODO: Built with -->
-<!-- - Semantic HTML5 markup
-- CSS custom properties
+- Semantic HTML5 markup
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles -->
+- [Sass](https://sass-lang.com)
 
 ### What I learned
 
-<!-- TODO: What I learned -->
+I got practice positioning elements with `position:absolute` and `position:fixed` (with the attribution)
 
 ### Continued development
 
-<!-- TODO: Continued development -->
-
-### Useful resources
-
-<!-- TODO: Useful resources -->
+Backgrounds are still hard for me, so I need to focus more on that.
 
 ## Author
 
 - Frontend Mentor - [@Lau-San](https://www.frontendmentor.io/profile/Lau-San)
-
-## Acknowledgments
-
-<!-- TODO: Acknowledgements -->
